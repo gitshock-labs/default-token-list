@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Gitshock Finance",
+    "address": "0x4cd6cA0011A37DA99589432F194b4241b28319b5",
+    "symbol": "GTFX",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/gitshock-logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x0fca2ea1787055C8977c777E05Bd5640772cA9a6",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/uniswap-uni-logo.png"
+  },
+  {
+    "name": "Ethereum",
+    "address": "0xB7D467c3D23280FF992F3c78aB6bAB844C61E68B",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/ethereum-logo.png"
+  },
+  {
+    "name": "USD Tether",
+    "address": "0xf8ee43495752e639A95583348dBA4Af570F7CE9e",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/tether-usdt-logo.png"
+  },
+  {
+    "name": "Aurora",
+    "address": "0x20E3F2f4F242AF2b73a0EFB6E083eAC747Fd51Cb",
+    "symbol": "AURORA",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://ipfs/QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/aurora-logo.png"
+  },
+  {
+    "name": "Binance Smart Chain",
+    "address": "0x046049aB95d975bCc04fc966D43df01789abbEcB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/bnb-logo.png"
+  },
+  {
+    "name": "MetisDAO",
+    "address": "0xe0456b51AFdC6A955374f4A9E72393D513CB5412",
+    "symbol": "METIS",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/metisdao-logo.png"
+  },
+  {
+    "name": "Fantom",
+    "address": "0x4D14C7Ab91C75743Da0A4150341b725703D2ed5e",
+    "symbol": "FTM",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/fantom-ftm-logo.png"
+  },
+  {
+    "name": "Avalanche",
+    "address": "0xF3526970635414da72Fca9d82C29D614AfaeBB39",
+    "symbol": "AVA",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/avalanche-logo.png"
+  },
+  {
+    "name": "Polygon Matic",
+    "address": "0xEAFDf23299888bDD08b9d3f857bacd24653D8C3e",
+    "symbol": "TMATIC",
+    "decimals": 18,
+    "chainId": 212,
+    "logoURI": "ipfs://QmSAVWQJqqSK6gX4LjsFavrWdBcc9Q2U9cC9Lq64j2XmYt/polygon-matic-logo.png"
+  }
+]
